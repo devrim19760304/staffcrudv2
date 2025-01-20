@@ -1,0 +1,55 @@
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\appsettings.Development.json
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\appsettings.json
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.staticwebassets.runtime.json
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.exe
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.deps.json
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.runtimeconfig.json
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.dll
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.pdb
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.GeneratedMSBuildEditorConfig.editorconfig
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.AssemblyInfoInputs.cache
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.AssemblyInfo.cs
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.csproj.CoreCompileInputs.cache
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.MvcApplicationPartsAssemblyInfo.cache
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets.build.json
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets.development.json
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets\msbuild.StaffCrudV2.Microsoft.AspNetCore.StaticWebAssets.props
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets\msbuild.build.StaffCrudV2.props
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StaffCrudV2.props
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StaffCrudV2.props
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets.pack.json
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\scopedcss\bundle\StaffCrudV2.styles.css
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.dll
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\refint\StaffCrudV2.dll
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.pdb
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.genruntimeconfig.cache
+I:\FILES\CODES PROGRAMMING\CSHARP\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\ref\StaffCrudV2.dll
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\appsettings.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.staticwebassets.runtime.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.staticwebassets.endpoints.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.exe
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.deps.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.runtimeconfig.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.dll
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\bin\Debug\net8.0\StaffCrudV2.pdb
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.AssemblyInfoInputs.cache
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.AssemblyInfo.cs
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.csproj.CoreCompileInputs.cache
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\scopedcss\bundle\StaffCrudV2.styles.css
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets\msbuild.StaffCrudV2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets\msbuild.StaffCrudV2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets\msbuild.build.StaffCrudV2.props
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StaffCrudV2.props
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StaffCrudV2.props
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.dll
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\refint\StaffCrudV2.dll
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.pdb
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\StaffCrudV2.genruntimeconfig.cache
+C:\Users\devri\Desktop\LESSON2001\BACKFULL\staffcrudv2\obj\Debug\net8.0\ref\StaffCrudV2.dll

@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "lb4M0Y1RnNwq5WndzZ7kLdmlS9TV2dUddAMF6ofTvRo=",
+  "Source": "StaffCrudV2",
+  "BasePath": "_content/StaffCrudV2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaffCrudV2\\wwwroot",
+      "Source": "StaffCrudV2",
+      "ContentRoot": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\",
+      "BasePath": "_content/StaffCrudV2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\index.html",
+      "SourceId": "StaffCrudV2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\",
+      "BasePath": "_content/StaffCrudV2",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w4ohzju6ur",
+      "Integrity": "kNzUyT5DOPf4kOANUyUIcHIoWxBVw6yQYvJ/WbeOZH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\style.css",
+      "SourceId": "StaffCrudV2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\",
+      "BasePath": "_content/StaffCrudV2",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pfbfzku3bi",
+      "Integrity": "pVqSKJ77t3FGW4yjHiXkcsF8Uc2KrCQ7gWiiBOKGruU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\table.html",
+      "SourceId": "StaffCrudV2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\",
+      "BasePath": "_content/StaffCrudV2",
+      "RelativePath": "table#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1xy50bw3do",
+      "Integrity": "BQwTDZQN09g8KXMotlc8+llAuURD7NReen8n4SjVWcU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\table.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNzUyT5DOPf4kOANUyUIcHIoWxBVw6yQYvJ/WbeOZH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 19:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNzUyT5DOPf4kOANUyUIcHIoWxBVw6yQYvJ/WbeOZH0="
+        }
+      ]
+    },
+    {
+      "Route": "index.w4ohzju6ur.html",
+      "AssetFile": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2401"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNzUyT5DOPf4kOANUyUIcHIoWxBVw6yQYvJ/WbeOZH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 19:19:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w4ohzju6ur"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNzUyT5DOPf4kOANUyUIcHIoWxBVw6yQYvJ/WbeOZH0="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pVqSKJ77t3FGW4yjHiXkcsF8Uc2KrCQ7gWiiBOKGruU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 19:19:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pVqSKJ77t3FGW4yjHiXkcsF8Uc2KrCQ7gWiiBOKGruU="
+        }
+      ]
+    },
+    {
+      "Route": "style.pfbfzku3bi.css",
+      "AssetFile": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pVqSKJ77t3FGW4yjHiXkcsF8Uc2KrCQ7gWiiBOKGruU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 19:19:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pfbfzku3bi"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pVqSKJ77t3FGW4yjHiXkcsF8Uc2KrCQ7gWiiBOKGruU="
+        }
+      ]
+    },
+    {
+      "Route": "table.1xy50bw3do.html",
+      "AssetFile": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\table.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BQwTDZQN09g8KXMotlc8+llAuURD7NReen8n4SjVWcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 19:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1xy50bw3do"
+        },
+        {
+          "Name": "label",
+          "Value": "table.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BQwTDZQN09g8KXMotlc8+llAuURD7NReen8n4SjVWcU="
+        }
+      ]
+    },
+    {
+      "Route": "table.html",
+      "AssetFile": "C:\\Users\\devri\\Desktop\\LESSON2001\\BACKFULL\\staffcrudv2\\wwwroot\\table.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BQwTDZQN09g8KXMotlc8+llAuURD7NReen8n4SjVWcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 19:24:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BQwTDZQN09g8KXMotlc8+llAuURD7NReen8n4SjVWcU="
+        }
+      ]
+    }
+  ]
+}

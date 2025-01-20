@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StaffCrudV2/1.0.0": {
+        "runtime": {
+          "StaffCrudV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaffCrudV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
